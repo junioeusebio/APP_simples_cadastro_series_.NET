@@ -1,4 +1,4 @@
-# Criando uma APP de cadastro em memória
+# Clone de um APP de cadastro em memória em .NET
 
 Objetivo: Clone de um APP simples de cadastro de séries em .NET de acordo com as instruções do bootcamp Fullstack Take Blip.
 Clone: https://github.com/elizarp/dio-dotnet-poo-lab-2
